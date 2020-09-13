@@ -20,12 +20,11 @@
 <a href="https://www.facebook.com/nomn.6557">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" height="4%" ; width="4%" ; margin-left:20px;margin-right:20px;></img></a>
 
-<a href="https://www.linkedin.com/in/noman-khan-3b9407183/">
-    <img src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" height="4%" ; width="4%" ; margin-left:20px;></img></a>
-
 <a href="https://twitter.com/nomn2002">
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="6%" ; width="6%" ; margin-left:20px;></img></a>   
   
-  
+  <a href="https://www.linkedin.com/in/noman-khan-3b9407183/">
+    <img src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" height="5%" ; width="5%" ; margin-left:20px;></img></a>
+ 
  ## 
   <img src="https://komarev.com/ghpvc/?username=noman2002" width=160px/>
