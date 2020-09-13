@@ -13,14 +13,17 @@
 
 <a href="https://wa.link/umcw0u">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174879.svg" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
- <a href="https://www.instagram.com/noman.khan__">
-  
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%" ; margin-left:20px;margin-right:20px;></img></a>            
-  <a href="https://www.facebook.com/nomn.6557">
+
+<a href="https://www.instagram.com/noman.khan__">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
+
+<a href="https://www.facebook.com/nomn.6557">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" height="4%" ; width="4%" ; margin-left:20px;margin-right:20px;></img></a>
-   <a href="https://www.linkedin.com/in/noman-khan-3b9407183/">
+
+<a href="https://www.linkedin.com/in/noman-khan-3b9407183/">
     <img src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" height="4%" ; width="4%" ; margin-left:20px;></img></a>
-  <a href="https://twitter.com/nomn2002">
+
+<a href="https://twitter.com/nomn2002">
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="6%" ; width="6%" ; margin-left:20px;></img></a>   
   
   
