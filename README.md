@@ -20,5 +20,5 @@
   <a href="https://www.facebook.com/nomn.6557">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" height="4%" ; width="4%" ; margin-left:20px;margin-right:20px;></img></a>
    <a href="https://www.linkedin.com/in/noman-khan-3b9407183/">
-    <img src=https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="10%" ; width="15%" ; margin-left:20px;></img></a>
+    <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="4%" ; width="4%" ; margin-left:20px;></img></a>
   
