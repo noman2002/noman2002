@@ -14,7 +14,7 @@
 <a href="https://wa.link/umcw0u">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174879.svg" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
-<a href="https://www.instagram.com/noman.khan__">
+<a href="https://www.instagram.com/noman.khan__"  target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
 
 <a href="https://www.facebook.com/nomn.6557">
