@@ -15,7 +15,7 @@
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174879.svg" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
 <a href="https://www.instagram.com/noman.khan__">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" target="_blank" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
 
 <a href="https://www.facebook.com/nomn.6557">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" height="4%" ; width="4%" ; margin-left:20px;margin-right:20px;></img></a>
