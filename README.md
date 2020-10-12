@@ -25,7 +25,6 @@
   
   <a href="https://www.linkedin.com/in/noman-khan-3b9407183/" target="_blank">
     <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="4%" ; width="4%" ; margin-left:20px;></img></a>
- 
- 
+  
  ## 
   <img src="https://komarev.com/ghpvc/?username=noman2002" width=160px/>
