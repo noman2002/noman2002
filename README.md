@@ -5,13 +5,14 @@
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=315,0cbaba,380036&title_color=656372&layout=compact&hide=ruby" />
   
+ <img align="right" width="100" height="100" src="https://i.pinimg.com/originals/60/7a/c0/607ac021d149667f4f3beef225bd6420.gif" />
+
   ## Languages and Tools
   
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA" style="width:100%"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width:100%">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width:100%"> <img 
 src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android" style="width:100%">
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width:100%">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width:100%"> <img src="https://img.shields.io/badge/xml%20-%2300599C.svg?&style=for-the-badge&logo=xml&logoColor=white" alt="xml" style="width:100%">  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-
 
 
 ## Lets Connect
