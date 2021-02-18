@@ -18,14 +18,14 @@
 
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
-<a href = "https://www.linux.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
-<a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a>
-<a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+<a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
+<a href = "https://developer.android.com/studio" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a>
+<a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
 
 ## Lets Connect
 
-<a href="https://wa.link/kllndd">
+<a href="https://wa.link/kllndd" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174879.svg" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
 <a href="https://www.instagram.com/noman.khan__" target="_blank" >
