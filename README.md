@@ -18,8 +18,9 @@
 
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
-
-<img height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png"> <img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"> 
+<a href = "https://www.linux.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
+<a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a>
+<a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
 
 ## Lets Connect
@@ -36,7 +37,7 @@
 <a href="https://twitter.com/nomn2002" target="_blank" >
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
   
-  <a href="https://www.linkedin.com/in/noman-khan-3b9407183/" target="_blank" >
+<a href="https://www.linkedin.com/in/noman-khan-3b9407183/" target="_blank" >
     <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="4%" ; width="4%" ; margin-left:20px;></img></a>
   
  ## 
