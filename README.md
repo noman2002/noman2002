@@ -19,7 +19,7 @@
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
 
-<img height="30"  src="https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase"> <img height="30"  src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"> <img height="30"  src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C">
+<img height="30"  src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"> <img height="30"  src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C">
 
 
 ## Lets Connect
