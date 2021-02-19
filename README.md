@@ -1,22 +1,32 @@
 ### Hi there I'm Noman👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=315,09C6F9,045DE9&title_color=656372&hide=issues,stars" />
+
+<img align="right" width="300" height="250" src="https://i.pinimg.com/originals/60/7a/c0/607ac021d149667f4f3beef225bd6420.gif" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
 
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=315,09C6F9,045DE9&title_color=656372&layout=compact&hide=ruby" />
   
+
   ## Languages and Tools
   
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA" style="width:100%"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width:100%">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width:100%"> <img 
-src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android" style="width:100%">
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA" style="width:100%"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width:100%">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width:100%"> 
 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width:100%">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width:100%"> <img src="https://img.shields.io/badge/xml%20-%2300599C.svg?&style=for-the-badge&logo=xml&logoColor=white" alt="xml" style="width:100%">  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img height="30" src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android" style="width:100%"> <img src="https://img.shields.io/badge/xml%20-%2300599C.svg?&style=for-the-badge&logo=xml&logoColor=white" alt="xml" style="width:100%">  <img height="30"  src="https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase">
 
+<img height="30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width:100%">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width:100%"> <img height="30"  src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C">
+
+<img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
+
+<a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
+<a href = "https://developer.android.com/studio" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a>
+<a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
 
 ## Lets Connect
 
-<a href="https://wa.link/kllndd">
+<a href="https://wa.link/kllndd" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174879.svg" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
 <a href="https://www.instagram.com/noman.khan__" target="_blank" >
@@ -28,7 +38,7 @@ src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&l
 <a href="https://twitter.com/nomn2002" target="_blank" >
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
   
-  <a href="https://www.linkedin.com/in/noman-khan-3b9407183/" target="_blank" >
+<a href="https://www.linkedin.com/in/noman-khan-3b9407183/" target="_blank" >
     <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="4%" ; width="4%" ; margin-left:20px;></img></a>
   
  ## 
