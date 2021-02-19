@@ -1,9 +1,9 @@
 ### Hi there I'm Noman👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=315,09C6F9,045DE9&title_color=656372&hide=issues,stars" />
 
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=315,0cbaba,380036&title_color=656372&layout=compact&hide=ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=315,09C6F9,045DE9&title_color=656372&layout=compact&hide=ruby" />
   
   ## Languages and Tools
   
