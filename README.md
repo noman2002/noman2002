@@ -1,7 +1,7 @@
 ### Hi there I'm Noman👋
 
 
-<img align="right" width="300" height="250" src="https://i.pinimg.com/originals/60/7a/c0/607ac021d149667f4f3beef225bd6420.gif" />
+<img align="right" width="300" height="250" src="animation.gif" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=315,5899E2,FFFFFF&title_color=656372&hide=issues,stars" />
 
