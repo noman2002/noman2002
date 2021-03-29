@@ -18,8 +18,8 @@
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
 <a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
-<a href = "https://developer.android.com/studio" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Android_Studio_Icon_2020.svg/1200px-Android_Studio_Icon_2020.svg.png" alt="Android Studio"></a>
-<a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+   <a href = "https://developer.android.com/studio" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Android_Studio_Icon_2020.svg/1200px-Android_Studio_Icon_2020.svg.png" alt="Android Studio"></a>
+  <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 
 
 ## Lets Connect
