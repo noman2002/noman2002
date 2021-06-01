@@ -9,7 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=315,5899E2,FFFFFF&title_color=656372&layout=compact" />
   
 <br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=noman2002&theme=dark"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noman2002&theme=dark)](https://git.io/streak-stats)
 
 
 ## Languages and Tools
