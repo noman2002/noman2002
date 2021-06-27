@@ -2,7 +2,7 @@
 
 <img align="right" width="300" height="250" src="animation.gif" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&hide=issues,stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
 
 
 <br>
