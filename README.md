@@ -1,6 +1,5 @@
 ### Hi there I'm Noman👋
 
-
 <img align="right" width="250" height="250" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif"/>
 
 
