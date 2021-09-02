@@ -20,10 +20,10 @@
   
 ## Languages and Tools
   
-<img height="30" width="70" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" >  <img height="30" width="80" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA" > <img height="30" width="100" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">  <img height="30" width="80" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > <img height="30" width="80" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" > <img height="30" width="80" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" > <img height="30" width="100" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="bootstrap" >
+<img height="30"  src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" >  <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA" > <img height="30"  src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">  <img height="30"  src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > <img height="30"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" > <img height="30"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" > <img height="30"  src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="bootstrap" >
   
 
-<img height="30" width="100" src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android" > <img height="30" width="60" src="https://img.shields.io/badge/xml%20-%2300599C.svg?&style=for-the-badge&logo=xml&logoColor=white" alt="xml" >  <img height="30" width="100" src="https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase">  <img height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img height="30" width="80" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android" > <img height="30"  src="https://img.shields.io/badge/xml%20-%2300599C.svg?&style=for-the-badge&logo=xml&logoColor=white" alt="xml" >  <img height="30"  src="https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase">  <img height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
 
 
@@ -39,7 +39,7 @@
 ## Lets Connect
 
 <a href="https://wa.link/kllndd" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174879.svg" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
+  <img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
 <a href="https://www.instagram.com/noman.khan__" target="_blank" >
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
