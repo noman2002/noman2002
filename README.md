@@ -1,4 +1,9 @@
-### Hi there I'm Noman👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&center=true&lines=Hello+%3Ccoders%2F%3E">
+  </a>
+</h1>
+
 
 <img align="right" width="250" height="250" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif"/>
 
