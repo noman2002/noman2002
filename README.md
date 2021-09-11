@@ -41,7 +41,7 @@
   <img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
 <a href="https://www.instagram.com/noman.khan__" target="_blank" >
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
+  <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a>            
 
 
 
