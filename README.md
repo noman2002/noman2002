@@ -27,8 +27,6 @@
 <img height="30" src="https://img.shields.io/badge/android%20-%230099C.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android" > <img height="30"  src="https://img.shields.io/badge/xml%20-%2300599C.svg?&style=for-the-badge&logo=xml&logoColor=white" alt="xml" >  <img height="30"  src="https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase">  <img height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
 
-
-
  
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
