@@ -3,13 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+there!!!..">
   </a>
 </h1>
+<p align="right">
+<img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
+</p>
 
-<img align="right" width="250" height="250" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman2002&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
-
-
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
   
 <br>
 
