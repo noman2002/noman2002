@@ -5,9 +5,10 @@
 </h1>
 <p align="right">
 <img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
-  <img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/noman2002?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=151515&Text=FDFDFD&Title=FDFDFD&Background=151515&Ring=FA8B00&center=true" />
+ 
+<img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/noman2002?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=FDFDFD&Text=FDFDFD&Title=FDFDFD&Background=151515&Ring=FA8B00&center=true" />
 </p>
-
+ <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2002&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
   
 <br>
